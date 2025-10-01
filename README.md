@@ -1,6 +1,5 @@
 <img align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="1100" />
 
-<h1>------------------------------------------------------------------------------</h1>
 
 <h2 align="left">¡Hi! I'm  <a href="https://www.linkedin.com/in/jhonwil" target="_blank" rel="noopener noreferrer">Jhon Rodriguez</a> 👋</h2>
 
